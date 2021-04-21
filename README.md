@@ -5,7 +5,7 @@ Markov-Chain-Text-Generator
 
 # Overview
 
-- [「マルコフ連鎖×Pythonで文章自動生成するなら、まずこの動画で！【超シンプル解説！】コードとサンプルデータもDLできます！」](https://www.youtube.com/watch?v=I_2WlQDPQOA)で使用する<br>Jupyter Notebookやサンプルデータ一式をまとめています
+- [「マルコフ連鎖×Pythonで文章自動生成するなら、まずこの動画で！【超シンプル解説！】コードとサンプルデータもDLできます！」](https://www.youtube.com/watch?v=I_2WlQDPQOA)で使用するJupyter Notebookやサンプルデータ一式をまとめています
 - 使用言語はPythonです
 - 大学、企業など組織でのご利用にあたっては、「株式会社マーケティングアプリケーションズ（MApps）」の「Markov-Chain-Text-Generator」を利用していることを明示し、MITライセンスで許可がされている内容であれば自由に利用して頂いて構いません
 - Markov-Chain-Text-Generatorの利用により生じるいかなる問題について、一切の責任を負いかねますのであらかじめご了承ください
